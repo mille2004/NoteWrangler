@@ -34,7 +34,7 @@ cd angular-seed
 ```
 **alyssa here**
 
-### Install Dependencies
+## Install Dependencies
 
 We have two kinds of dependencies in this project: tools and angular framework code.  The tools help
 us manage and test the application.
